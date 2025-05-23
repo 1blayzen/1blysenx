@@ -8,11 +8,12 @@
 
 🎓 **Quem sou eu:**
 
-- 👨‍💻 Desenvolvedor Full Stack com foco em criar soluções inteligentes e escaláveis.
+- 👨‍💻 Desenvolvedor Full Stack com foco em soluções modernas e performáticas.
 - 🧑‍🎓 Estudante de **Ciência da Computação** (21 anos).
-- 💻 Experiência com bots Discord usando `discord.js`.
-- 🎮 Curioso em game dev com Lua e Blueprints (Unreal Engine).
-- 🚀 Sempre explorando novas tecnologias e frameworks.
+- 🤖 Crio bots com `discord.js` e APIs com `.NET`.
+- 💾 Conhecimento em bancos de dados como **MongoDB** e SQL.
+- 🎮 Entusiasta de game dev com **Lua** e **Blueprints (Unreal Engine)**.
+- 🧠 Sempre em busca de aprender e evoluir como dev!
 
 ---
 
@@ -24,21 +25,25 @@
 
 > **Back-end & Lógica:**
 - Node.js (com Discord.js)
+- .NET (C#)
 - C, C++
 - Lua
+
+> **Banco de Dados:**
+- MongoDB
+- SQL (básico)
 
 > **Outros:**
 - Blueprints (Unreal Engine)
 - Git & GitHub
-- Desenvolvimento de bots e automações
+- Automação de tarefas, integração com APIs
 
 ---
 
 🔗 **Vamos nos conectar:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Discord](https://img.shields.io/badge/Discord-Blysenx%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-marcos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-1Blysen%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-marcos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.aflyn@gmail.com)
 
 ---
 
