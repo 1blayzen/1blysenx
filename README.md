@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou o Marcos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+em+Tecnologia;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+codar+e+criar+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=480&lines=Desenvolvedor+Full+Stack;Entusiasta+em+Tecnologia;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Comprometido+com+a+excel%C3%AAncia+em+software;Motivado+a+resolver+problemas+com+c%C3%B3digo!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -37,9 +38,10 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blysenx&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blysenx&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blysenx&layout=compact&theme=dark&hide_border=true&langs_count=5" height="150" />
 </div>
+
 
 ---
 
