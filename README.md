@@ -41,9 +41,6 @@
 ---
 
 🔗 **Vamos nos conectar:**
-
-
-[![Discord](https://img.shields.io/badge/Discord-1blysen%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-marcos.aflyn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.aflyn@gmail.com)
 
 ---
