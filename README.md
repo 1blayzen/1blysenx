@@ -8,42 +8,43 @@
 
 🎓 **Quem sou eu:**
 
-- 👨‍💻 Desenvolvedor Full Stack com ênfase em soluções criativas e eficientes.
-- 📚 Atualmente cursando **Ciência da Computação**.
-- 👾 Fã de desenvolvimento de bots para Discord, automações e aplicações interativas.
-- 🎮 Apaixonado por jogos e tecnologia — do **Lua** ao **Blueprints**, eu gosto de colocar a mão na massa!
+- 👨‍💻 Desenvolvedor Full Stack com foco em criar soluções inteligentes e escaláveis.
+- 🧑‍🎓 Estudante de **Ciência da Computação** (21 anos).
+- 💻 Experiência com bots Discord usando `discord.js`.
+- 🎮 Curioso em game dev com Lua e Blueprints (Unreal Engine).
+- 🚀 Sempre explorando novas tecnologias e frameworks.
 
 ---
 
-🧠 **Habilidades Técnicas:**
+🧠 **Tecnologias que domino:**
 
 > **Front-end:**
 - HTML, CSS, JavaScript
 - React.js
 
 > **Back-end & Lógica:**
-- Node.js (especialmente com Discord.js)
+- Node.js (com Discord.js)
 - C, C++
 - Lua
 
 > **Outros:**
 - Blueprints (Unreal Engine)
-- Git e GitHub para versionamento
+- Git & GitHub
 - Desenvolvimento de bots e automações
 
 ---
 
-🔗 **Conecte-se comigo:**
+🔗 **Vamos nos conectar:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Discord](https://img.shields.io/badge/Discord-Marcos%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Acesse-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Discord](https://img.shields.io/badge/Discord-Blysenx%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-marcos%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos@gmail.com)
 
 ---
 
-📊 **GitHub Stats:**
+📊 **Minhas estatísticas no GitHub:**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blysenx&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blysenx&theme=tokyonight" />
 </p>
