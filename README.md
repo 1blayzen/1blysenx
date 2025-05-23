@@ -1,8 +1,9 @@
 <h1 align="center">Olá, eu sou o Marcos! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+em+Tecnologia;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+codar+e+criar+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+em+Tecnologia;Cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+codar+e+criar+solu%C3%A7%C3%B5es!" alt="Typing SVG" />
 </p>
+
 
 ---
 
