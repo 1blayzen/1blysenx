@@ -41,7 +41,7 @@
 ---
 
 🔗 **Vamos nos conectar:**
-[![Email](https://img.shields.io/badge/Email-marcos.aflyn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.aflyn@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-marcos.aflyn%40gmail.com-red?style=flat-square&logo=gmail)](mailto:marcos.aflyn@gmail.com)
 
 ---
 
