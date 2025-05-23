@@ -6,7 +6,7 @@
 
 ---
 
-### Quem sou eu
+### Quem sou eu <img align="right" height="150" src="https://media.discordapp.net/attachments/1291137666754019437/1332418906349899923/unnamed-art-scale-6_00x-Blysen.jpeg?ex=683211ce&is=6830c04e&hm=2df6f3fbc4bdfa93908fd3c390034a75cb49b4bb2bb46cdf31d991cb0cca3b6c&=&format=webp&width=1006&height=1006" />
 
 - 👨‍💻 Desenvolvedor Full Stack com foco em soluções modernas e performáticas  
 - 🎓 Estudante de Ciência da Computação (21 anos)  
@@ -33,9 +33,6 @@
 </div>
 
 ---
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1291137666754019437/1332418906349899923/unnamed-art-scale-6_00x-Blysen.jpeg?ex=683211ce&is=6830c04e&hm=2df6f3fbc4bdfa93908fd3c390034a75cb49b4bb2bb46cdf31d991cb0cca3b6c&=&format=webp&width=1006&height=1006" />
-
 
 ### GitHub Stats
 
